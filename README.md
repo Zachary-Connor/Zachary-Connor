@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Zachary-Connor
 - 👀 I’m interested in ... Internet Technology and Programming
-- 🌱 I’m currently learning ... Python, HTML, Java Script, CSS
-- 💞️ I’m looking to collaborate on ... Website Design Projects
+- 🌱 I’m currently learning ... Linux, C++, Cloud Computing
+- 💞️ I’m looking to collaborate on ... C++ programs, Linux Commands
 - 📫 How to reach me ... zachconnor0@gmail.com, Phone number: 586-802-9339
 
 <!---
